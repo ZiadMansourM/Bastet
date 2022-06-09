@@ -19,3 +19,11 @@ Bastet will help devlopers automate repeted works, reuse/share apps by blug-and-
 
 # Supporting the Development of Bastet
 Bastet's development depends on your contributions. We always welcome new contributors 🫡
+
+Ziad Hassanin - SWE Doing SRE
+-----------------------------
+phone: (10)217-999-50 <br/>
+ziadmansour.4.9.2000@gmail.com <br/>
+San José State University, California <br/>
+Cairo University Faculty of Engineering (CCEC) <br/>
+[SREboy.com](https://www.sreboy.com/) | [twitter](https://twitter.com/ziad_m_404) | [linkedin](https://www.linkedin.com/in/ziad-mansour/) | [instagram](https://www.instagram.com/ziad_m_404/) <br/>
