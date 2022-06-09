@@ -1,5 +1,5 @@
 ## Contact Author
-Ziad Hassanin - SWE Doing SRE; <br/>
+Ziad Hassanin - SWE Doing SRE <br/>
 phone: (10)217-999-50 <br/>
 ziadmansour.4.9.2000@gmail.com <br/>
 San José State University, California <br/>
