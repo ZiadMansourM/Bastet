@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# 👋 Welcome to Bastet
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Bastet is a high-level Python package that encourages rapid development
+and clean, pragmatic design for FastAPI. Thanks for checking it out.
 
-## Commands
+# Vision: Reusability matters
+As in [Django docs](https://docs.djangoproject.com/en/4.0/intro/reusable-apps/#reusability-matters), It’s a lot of work to design, build, test and maintain a web application. Many projects share common problems. Wouldn’t it be great if we could save some of this repeated work?
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+This is the most important reason I started the Bastet package. Inspired by Django, the well known web framework built by experienced developers.
 
-## Project layout
+Bastet will help devlopers automate repeted works, reuse/share apps by blug-and-play, decouple apps logic.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+# Supporting the Development of Bastet
+Bastet's development depends on your contributions. We always welcome new contributors 🫡
