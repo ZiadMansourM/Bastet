@@ -1,4 +1,4 @@
-# 👋 Welcome to Bastet - [docs](https://www.sreboy.com/Bastet/about/)
+# 👋 Welcome to Bastet - [docs](https://www.sreboy.com/Bastet/)
 
 Bastet is a high-level Python package that encourages rapid development
 and clean, pragmatic design for FastAPI. Thanks for checking it out.
