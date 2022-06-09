@@ -1,8 +1,14 @@
-# 👋 Welcome to Bastet - [docs](https://www.sreboy.com/Bastet)
-![Hello](bastet.gif)
+<div align="center">
+  
+  ### 👋 Welcome to Bastet - [docs](https://www.sreboy.com/Bastet)
+  ![Hello](bastet.gif)
+  
+  [![python 3.9.6](https://img.shields.io/badge/Python-3.10.4-<COLOR>.svg)](https://shields.io/)
+  
+  Bastet is a high-level Python package that encourages rapid development
+  and clean, pragmatic design for FastAPI.
 
-Bastet is a high-level Python package that encourages rapid development
-and clean, pragmatic design for FastAPI. Thanks for checking it out.
+</div>
 
 # Vision: Reusability matters
 As in [Django docs](https://docs.djangoproject.com/en/4.0/intro/reusable-apps/#reusability-matters), It’s a lot of work to design, build, test and maintain a web application. Many projects share common problems. Wouldn’t it be great if we could save some of this repeated work?
